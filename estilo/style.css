@@ -88,7 +88,7 @@ nav > a{
     font-weight: bold;              /*tag para fazer texto negrito*/
     transition-duration: 0.2s;      /*tempo de transição para mudança de cor dos links*/
 }
-/* :hover tag que faz mudar a cor do elemento*/
+/* :hover tag que faz mudar as configurações do elemento ao passar o mouse*/
 nav > a:hover{
     background-color: var(--cor2);  /*nova cor para os links do navegador*/
     border-radius: 20px;            /*causa curva nas bordas das caixas*/
